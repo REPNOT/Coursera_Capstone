@@ -18,6 +18,6 @@
 
 <a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/55e82a97-face-4273-b38c-f30ca795bd4f/view?access_token=fbe71a70048347ccbf7473ebc1d7c4303d74f4a2904ca3cfa8853cc0b11a99f0" target="_blank"><strong>Week 3 Assignment Submission - Part 2<strong></a>
 
-<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/de556fbc-fdb1-4c39-8be9-4494c0862ed2/view?access_token=236d55a02e8a2cac3f50f24cbf3fbddcb6c844041bbaf5078dc5190f9942fa09" target="_blank"><strong>GitHub Repository: Week 3 Assignment - Part 3<strong></a>
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/de556fbc-fdb1-4c39-8be9-4494c0862ed2/view?access_token=236d55a02e8a2cac3f50f24cbf3fbddcb6c844041bbaf5078dc5190f9942fa09" target="_blank"><strong>Week 3 Assignment Submission - Part 3<strong></a>
 
 <hr>
