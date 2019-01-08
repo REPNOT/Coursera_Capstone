@@ -1,3 +1,5 @@
+<hr>
+
 <h1>Coursera Capstone<br>IBM Applied Data Science on Coursera</h1>
 
 <p><strong>Capstone project repository for the IBM Data Science program offered on Coursera.</strong></p>
