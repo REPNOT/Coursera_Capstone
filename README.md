@@ -1,4 +1,4 @@
-<h1 color="red">Access to the Notebooks Hosted on IBM Watson Studio Shared in this Repository has been Restricted Until Further Notice</h1>
+<h1>Access to the Notebooks Hosted on IBM Watson Studio Shared in this Repository has been Restricted Until Further Notice</h1>
 
 <hr>
 
