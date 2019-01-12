@@ -1,3 +1,5 @@
+<h1>Access to the Notebooks Hosted on IBM Watson Studio Shared in this Repository has been Restricted Until Further Notice</h1>
+
 <hr>
 
 <h1>Coursera Capstone<br>IBM Applied Data Science on Coursera</h1>
