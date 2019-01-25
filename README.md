@@ -1,8 +1,4 @@
-<h1 align="center">Data Science Capstone: Final Assignment Submission</h1>
-
-<h2 align="center">Final Report</h2>
-<h2 align="center">Assignment By: Derek Evans</h2>
-<h2 align="center">Submitted On: Jan. 20th, 2019</h2>
+<h1 align="center">Data Science Capstone: Final Assignment Submission<br>Final Report<br>Assignment By: Derek Evans<br>Submitted On: Jan. 20th, 2019</h1>
 
 <p>The main scope of this project is to deploy an automated data collection solution using the <a href="https://www.ibm.com/watson/index.html" target="_blank">Watson Studio</a> data science platform in conjunction with a <a href="https://www.ibm.com/cloud/db2-on-cloud" target="_blank">IBM DB2 on Cloud</a> database.  In developing this solution, my intention was to solve a problem that was mentioned by one of the instructors from the Data Science Methodology course of this program.  During one of the course presentations, the instructor had placed an emphasis on mentioning that one of the most difficult and time-consuming aspects of the data science process is data collection, processing, and generation of new data.  While I'm not a data scientist by any means, I can relate to and agree that the amount of worked involved in preparing data for any kind of analysis and, or research is not only difficult, but exhausting.  This is the type of work that often has little to no reportable production output and depending on the circumstances, can come under a great deal of criticism as the allocation of human capital towards such efforts are costly. </p> 
 
