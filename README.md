@@ -37,7 +37,7 @@
 
 <hr>
 
-<iframe width="100%" height="100%" src="https://share.mindmanager.com/#publish/5Q7GMjJ-1gXEDz4VOR68-SEZmFcPAlOZZmjFhl2R"></iframe>
+<a width="100%" height="100%" src="https://share.mindmanager.com/#publish/5Q7GMjJ-1gXEDz4VOR68-SEZmFcPAlOZZmjFhl2R">
 
 <hr>
 
