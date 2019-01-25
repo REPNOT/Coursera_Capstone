@@ -37,7 +37,7 @@
 
 <hr>
 
-<a width="100%" height="100%" src="https://share.mindmanager.com/#publish/5Q7GMjJ-1gXEDz4VOR68-SEZmFcPAlOZZmjFhl2R">
+<img src="https://drive.google.com/open?id=1MMS7GFnTHDmB37EwnFUKcFr1M44ZZo3j">
 
 <hr>
 
