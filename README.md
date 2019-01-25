@@ -37,7 +37,7 @@
 
 <hr>
 
-![Project Diagram](https://drive.google.com/open?id=1MMS7GFnTHDmB37EwnFUKcFr1M44ZZo3j)
+<img src="https://fgy7oa.dm.files.1drv.com/y4mOktvWwvwzHpJl87YCdPKjhoA2hEen9Jv71BP-u4Lgn59TxcB6JvEaY7z4W90SEq5TPeza21zVu-JlOWn_KXn7szHSOZMSVvN45jZ3ITV6daRgtMOSuisIrQEcPIxTzwt57kzXfmNrVSvI8mmcNorkzY6LOSocYQBryPJAMtyES1Ut6r8ip9jN6tW8I2OmQkxY1jKYVZYvhJfBSn0FT27ow?width=1388&height=803&cropmode=none" width="1388" height="803" />
 
 <hr>
 
