@@ -37,7 +37,7 @@
 
 <hr>
 
-<img src="https://drive.google.com/open?id=1MMS7GFnTHDmB37EwnFUKcFr1M44ZZo3j">
+![Project Diagram](https://drive.google.com/open?id=1MMS7GFnTHDmB37EwnFUKcFr1M44ZZo3j)
 
 <hr>
 
