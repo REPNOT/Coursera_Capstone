@@ -66,3 +66,37 @@
 <a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/de556fbc-fdb1-4c39-8be9-4494c0862ed2/view?access_token=236d55a02e8a2cac3f50f24cbf3fbddcb6c844041bbaf5078dc5190f9942fa09" target="_blank"><strong>Week 3 Assignment Submission - Part 3<strong></a>
 
 <hr>
+
+<h2>Final Assignment</h2>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/4ccf352d-d267-409c-8651-bd34d060e341/view?access_token=b546245032c3671b505611d1ac408893fe52cdf2c7123a1476dd26e7d1e19912" target="_blank">Final Report</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/ed945533-ff35-4d1d-a02e-4af956f1986a/view?access_token=9e6ed08d23aea24139e923a336730ea516c1645ca8b2a23faf0c87d4bd4c8981" target="_blank">Analysis & Report</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/d898d40d-2f00-404a-81ff-d939e756d16a/view?access_token=f349d8b27951ddc429668f1b2f9f05a73c423f7753481872d781ce33c0bf6579" target="_blank">Data Retrieval</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/7eff4c08-6060-4285-8e8b-3d2c4b956e92/view?access_token=99498c3045c221c12b0d578b86186e476e384385d18d9a35cdd1293658b33d3e" target="_blank">Web Scraper</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/dc3e838d-0440-4031-9791-99c49015828f/view?access_token=ccd77c0bf2ee61703cd319244c0de44171ed9c1ba9e7d4a55a68c2c2c2f51e89" target="_blank">Data Collector 1</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/92c07694-4845-46c9-9391-40c1c49e2f16/view?access_token=490a725d635dd394201e4e3112b185960f4ec421c9d8aa1a7c72a21b221bbddf" target="_blank">Data Collector 2</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/92c07694-4845-46c9-9391-40c1c49e2f16/view?access_token=490a725d635dd394201e4e3112b185960f4ec421c9d8aa1a7c72a21b221bbddf" target="_blank">Data Collector 3</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/ba6af1e1-654c-4640-86b5-8cf8ea8a22ca/view?access_token=c8c8826fce399fb220b11a034add1eddae25cad70d967dd9be8c756feb353920" target="_blank">Data Collector 4</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/57eeccec-7465-4595-b7a5-90da66e944af/view?access_token=b4448813af561a59aaeb642035881fefd33c41f601d548d7ab6b929139a9a8ab" target="_blank">Data Collector 5</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/9efa4a48-abfe-4530-bd25-bd5f354bc9eb/view?access_token=c776db7b210d89f90f32682f3562c7c0339bc850a6492b67f049027de28ff829" target="_blank">Data Collector 6</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/2b9d054c-51ff-4d73-8a6c-e7f449a635c5/view?access_token=2daa3402da257e39d5a3a634e4a8f0675594a235201b57d1f3f9c0b893a7528b" target="_blank">Data Collector 7</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/15eff95b-0bc7-4731-a09a-a54e81dcb4b9/view?access_token=495bbaee6c83b5998afd6e2c648e95e48b9451446549b32f6263dc1614b8cde7" target="_blank">Data Collector 8</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/98f7e119-5859-4469-b48b-3019d561cc7c/view?access_token=f154cab6e7b76fdafe65cda279e30055ba70cdccbafb7f6575a82cf6ffde32b4" target="_blank">Data Collector 9</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/8ac500b0-f82d-4534-8060-b1180930e408/view?access_token=80e77c0b0500acb97259ac42071cefd52f77d272cb7aafbca8b698738983f119" target="_blank">Data Collector 10</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/1c778a50-25ed-4512-adfb-f8a58951cfd6/view?access_token=f2d8a23b6478d34d0f9143a18fce6abfe1f46777041adc8fc6997ffb9b008b8b" target="_blank">Data Collector 11</a>
+
+<a href="https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/4e7f13be-2cb0-4b13-ad6e-ac3bd32c7c2f/view?access_token=61a7faae9465e77294937923faf4579feaa8e6d161f10daa9efedb488e4f9a64" target="_blank">Data Collector 12</a>
